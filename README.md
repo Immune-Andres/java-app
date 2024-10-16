@@ -1,1 +1,1 @@
-# myJuly2023Weekday
+# Test app
